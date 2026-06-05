@@ -1,0 +1,16 @@
+# raw capture recordings -- large and session-specific, not for the repo
+*.wav
+*.WAV
+# except the generated test signal
+!captest_signal.wav
+
+# measurement logs (regenerate per session)
+caps.csv
+caps_*.csv
+
+# python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

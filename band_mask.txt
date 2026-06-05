@@ -1,0 +1,19 @@
+# matchable FR bands (reseat spread < 1.0 dB)
+# from 4 reseats; rank_pairs.py reads this
+160    # spread 0.4 dB
+200    # spread 0.2 dB
+250    # spread 0.1 dB
+315    # spread 0.1 dB
+400    # spread 0.1 dB
+500    # spread 0.1 dB
+630    # spread 0.2 dB
+800    # spread 0.5 dB
+1000    # spread 0.4 dB
+#1250    # spread 2.5 dB  # EXCLUDED
+1600    # spread 0.8 dB
+#2000    # spread 1.5 dB  # EXCLUDED
+#2500    # spread 1.4 dB  # EXCLUDED
+3150    # spread 0.5 dB
+4000    # spread 0.5 dB
+5000    # spread 0.6 dB
+6300    # spread 0.5 dB
