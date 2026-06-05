@@ -3,7 +3,7 @@
 // with its front inlet facing the bore; sound enters from the bottom.
 
 /* ---------- parameters ---------- */
-capsule_dia   = 9.96;  // capsule bore (AOM-5024L = 9.70, +0.02 slip clearance)
+capsule_dia   = 9.80;  // capsule bore (AOM-5024L 9.72, +0.08 slip clearance)
 well_depth    = 4;     // depth of capsule well (this floor is the stop)
 bore_dia      = 7.74;   // inner acoustic channel
 bore_len      = 8;     // channel length below the well   <- tweak
